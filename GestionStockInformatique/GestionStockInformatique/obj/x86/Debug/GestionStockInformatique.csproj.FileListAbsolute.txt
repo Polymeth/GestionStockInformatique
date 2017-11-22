@@ -1,0 +1,11 @@
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\bin\Debug\GestionStockInformatique.exe
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\bin\Debug\GestionStockInformatique.pdb
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.Add.resources
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.GUI.New.resources
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.Main.resources
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.Properties.Resources.resources
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.Transfer.resources
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.csproj.GenerateResource.Cache
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.exe
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.pdb
+C:\Users\election\documents\visual studio 2010\Projects\GestionStockInformatique\GestionStockInformatique\obj\x86\Debug\GestionStockInformatique.GUI.AddStock.resources
