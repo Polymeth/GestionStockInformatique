@@ -1,6 +1,5 @@
 # GestionStockInformatique
-Logiciel qui permet la gestion des stocks du materiel informatique de la Mairie d'Argelès-sur-mer
-Actuellement en version ALPHA1
+Logiciel qui permet la gestion des stocks du materiel informatique de la Mairie d'Argelès-sur-mer. Actuellement en version ALPHA1
 
 ### TODO
 - Optimiser le code
