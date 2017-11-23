@@ -14,10 +14,11 @@ namespace GestionStockInformatique.GUI
 
         public Main nForm { get; set; }
         public string nProduct { get; set; }
+
         public New(string _product, Main _form)
         {
             nForm = _form;
-            nProduct = _product; 
+            nProduct = _product;
             InitializeComponent();
         }
 
@@ -43,6 +44,11 @@ namespace GestionStockInformatique.GUI
             {
                 log.addLog(Logger.LogType.Succes, "Le nom de " + nProduct + " n'a pas pu être modifié en " + textBox1.Text);
             }
+        }
+
+        private void New_Load(object sender, EventArgs e)
+        {
+            textBox1.Text = nProduct;
         }
     }
 }
